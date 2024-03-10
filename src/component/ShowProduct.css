@@ -1,0 +1,76 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.eletronicsList{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 12px;
+    /* box-shadow:  0 1px 8px rgba(0,0,0,0.25); */
+    color: bisque;
+    padding: 0.5rem;
+    margin: 1rem 0;
+
+    background-color: #4b4b4b;
+    /* align-items: center;
+    background-color:orange;
+    color:white; */
+}
+
+ .FoodList{
+    /* background-color: rgb(64, 167, 167);
+    color: white; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 12px;
+    /* box-shadow:  0 1px 8px rgba(0,0,0,0.25); */
+    color: bisque;
+    padding: 0.5rem;
+    margin: 1rem 0;
+
+    background-color: #4b4b4b;
+}
+.eleList{
+    display: flex;
+    flex-direction: row;
+    color: bisque;
+    background-color: grey;
+
+}
+.eleList > h1{
+justify-content: center;
+}
+.Skincare{
+
+    /* align-items: center;
+    color:white;
+    background-color:magenta; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 12px;
+    /* box-shadow:  0 1px 8px rgba(0,0,0,0.25); */
+    color:bisque;
+    padding: 0.5rem;
+    margin: 1rem 0;
+
+    background-color: #4b4b4b;
+
+}
+/* .FoodList{
+    display: flex;
+    color: bisque;
+    background-color: cadetblue;
+} */
+/* .showList{
+    display: flex;
+    justify-content: space-between; 
+    background-color: aqua;
+    color: wheat;
+}  */
+/* .chooseCategory{
+    display: flex;
+    justify-content: space-between;
+}  */
